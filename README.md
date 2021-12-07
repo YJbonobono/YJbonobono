@@ -18,7 +18,7 @@ https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA
 - ⚡ Fun fact: ...
 
   
-#### Techs that I've used at least once  
+### 🛠 Techs that I've used at least once 🛠 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B%&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/></a>
